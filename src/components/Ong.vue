@@ -4,7 +4,7 @@
     :items="ongs"
     :search="search"
     sort-by="institucion"
-    class="elevation-1" style="width:800px">
+    class="elevation-1" style="width:1000px">
         <template v-slot:top>
             <v-toolbar flat color="white">
                 <v-toolbar-title>DATASET - ONG LIST</v-toolbar-title>
