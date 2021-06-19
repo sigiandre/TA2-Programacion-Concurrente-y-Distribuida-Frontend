@@ -1,4 +1,4 @@
-clear<template>
+<template>
     <v-data-table 
     :headers="headers"
     :items="ongs"
